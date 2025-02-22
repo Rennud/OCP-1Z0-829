@@ -105,8 +105,4 @@ After you to the neccessary steps for activation you will be able to get to the 
 * [Preparation info video](https://coderanch.com/f/24/java-programmer-OCPJP)
 * [General info about Oracle certs](https://www.dice.com/career-advice/oracle-certifications-what-you-need-to-know-to-start)
 
-## License
-
-This repository is licensed under the Apache License. See the [LICENSE](LICENSE) file for more information.
-
 Happy studying and best of luck on your OCP 17 certification journey!
